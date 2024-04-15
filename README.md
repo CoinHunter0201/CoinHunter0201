@@ -18,15 +18,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CoinHuntersTR&label=Profile%20views&color=0e75b6&style=flat" alt="CoinHuntersTR" /> <a href="https://twitter.com/CoinHuntersTR" target="blank"><img src="https://img.shields.io/twitter/follow/CoinHuntersTR?logo=twitter&style=for-the-badge" alt="CoinHuntersTR" " /></a> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=coinhunterstr&show_icons=true&theme=highcontrast" align="right" width="450" height="350" >
+<img src="https://github-readme-stats.vercel.app/api?username=CoinHunter0201&show_icons=true&theme=highcontrast" align="right" width="450" height="350" >
 
 > 🔭 We are currently learning Layer 2s and developing new DApps
 
-> 👨‍💻 All of our projects are available at [Github](https://github.com/CoinHuntersTR)
+> 👨‍💻 All of our projects are available at [Github](https://github.com/CoinHunter0201)
 
 > 📝 We run a very influential crypto community | Produce contents
 
-> 💬 Ask about us  - [Twitter](https://twitter.com/CoinHuntersTR) -[Telegram](https://t.me/CoinHuntersTR)
+> 💬 Ask about us  - [Twitter](https://twitter.com/CoinHunter0201) -[Telegram](https://t.me/CoinHunter0201)
 
 > ⚡ **Managing Community | produce content**
 
